@@ -1,0 +1,2 @@
+wikipedia==1.4.0
+Kivy==2.3.0
